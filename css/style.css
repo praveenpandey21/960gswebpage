@@ -1,0 +1,40 @@
+.grid_12 h1{
+
+  text-align: center;
+  background-color: teal;
+  text-decoration: underline;
+  color: red;
+}
+.grid_4 p{
+
+border: 2px;
+
+
+}
+.grid_12 h2{
+
+  text-align: center;
+  background-color: grey;
+  text-decoration: underline;
+  color: teal;
+}
+p{
+padding: 2px;
+border: 3px solid black;
+
+}
+.grid_4 ul li {
+list-style-type: none;
+float: left;
+margin: 10px;
+font-size: 24px;
+color: green;
+
+}
+
+.grid_10 p{
+font-size: 18px;
+font-family: cursive;
+font-weight: bold;
+
+}
